@@ -1,0 +1,23 @@
+/* STYLESHEET EXERCISE 001 */
+h1 {
+    text-align: center;
+}
+.content {
+    width: 100%;
+    }
+
+#box{
+    width: 350px;
+    height: auto;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 80px;
+    }
+
+button {
+    display: block;
+    border: 1px solid #aaa;
+    padding: 20px 40px;
+    margin: 0 auto;
+}
